@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shengweiling.github.io/wuya</id>
+    <title>天下乌鸦不尽黑</title>
+    <updated>2025-11-12T09:44:24.005Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shengweiling.github.io/wuya"/>
+    <link rel="self" href="https://shengweiling.github.io/wuya/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://shengweiling.github.io/wuya/images/avatar.png</logo>
+    <icon>https://shengweiling.github.io/wuya/favicon.ico</icon>
+    <rights>All rights reserved 2025, 天下乌鸦不尽黑</rights>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://shengweiling.github.io/wuya/post/test/</id>
+        <link href="https://shengweiling.github.io/wuya/post/test/">
+        </link>
+        <updated>2025-11-12T08:37:11.000Z</updated>
+        <content type="html"><![CDATA[<p>tetewtwetw</p>
+]]></content>
+    </entry>
+</feed>
